@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDubicaciones_ANAV", "CRUDubicaciones_ANAV\CRUDubicaciones_ANAV.csproj", "{207701B4-F830-4794-9818-7BF415434068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{5D37B447-C5F2-4A05-B885-82710073CF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C5168254-6EE1-4AFE-B5DB-DBDBD9CC9BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207701B4-F830-4794-9818-7BF415434068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207701B4-F830-4794-9818-7BF415434068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207701B4-F830-4794-9818-7BF415434068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207701B4-F830-4794-9818-7BF415434068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D37B447-C5F2-4A05-B885-82710073CF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D37B447-C5F2-4A05-B885-82710073CF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D37B447-C5F2-4A05-B885-82710073CF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D37B447-C5F2-4A05-B885-82710073CF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5168254-6EE1-4AFE-B5DB-DBDBD9CC9BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5168254-6EE1-4AFE-B5DB-DBDBD9CC9BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5168254-6EE1-4AFE-B5DB-DBDBD9CC9BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5168254-6EE1-4AFE-B5DB-DBDBD9CC9BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41AE1A11-65B7-444E-8E3D-46A94F0DFD1B}
+	EndGlobalSection
+EndGlobal
